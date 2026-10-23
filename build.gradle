@@ -1,5 +1,5 @@
 plugins {
-    id 'com.damianhoward.java-conventions' version '0.5.5'
+    id 'com.damianhoward.java-conventions' version '0.6.0'
 }
 
 version = '1.0.0'
